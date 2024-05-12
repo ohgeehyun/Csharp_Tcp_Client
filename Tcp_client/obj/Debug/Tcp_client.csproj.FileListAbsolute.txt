@@ -1,0 +1,9 @@
+C:\Users\OG\source\repos\Tcp_client\Tcp_client\obj\Debug\Tcp_client.csproj.AssemblyReference.cache
+C:\Users\OG\source\repos\Tcp_client\Tcp_client\obj\Debug\TcpClient.MainForm.resources
+C:\Users\OG\source\repos\Tcp_client\Tcp_client\obj\Debug\Tcp_client.csproj.GenerateResource.cache
+C:\Users\OG\source\repos\Tcp_client\Tcp_client\obj\Debug\Tcp_client.csproj.CoreCompileInputs.cache
+C:\Users\OG\source\repos\Tcp_client\Tcp_client\bin\Debug\Tcp_client.exe.config
+C:\Users\OG\source\repos\Tcp_client\Tcp_client\bin\Debug\Tcp_client.exe
+C:\Users\OG\source\repos\Tcp_client\Tcp_client\bin\Debug\Tcp_client.pdb
+C:\Users\OG\source\repos\Tcp_client\Tcp_client\obj\Debug\Tcp_client.exe
+C:\Users\OG\source\repos\Tcp_client\Tcp_client\obj\Debug\Tcp_client.pdb

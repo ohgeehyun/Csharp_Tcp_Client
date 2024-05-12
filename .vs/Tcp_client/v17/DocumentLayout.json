@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OG\\source\\repos\\Tcp_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|C:\\Users\\OG\\source\\repos\\Tcp_client\\tcp_client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|solutionrelative:tcp_client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|c:\\users\\og\\source\\repos\\tcp_client\\tcp_client\\paketdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|solutionrelative:tcp_client\\paketdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|c:\\users\\og\\source\\repos\\tcp_client\\tcp_client\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|solutionrelative:tcp_client\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|C:\\Users\\OG\\source\\repos\\Tcp_client\\tcp_client\\packetprocessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|solutionrelative:tcp_client\\packetprocessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|c:\\users\\og\\source\\repos\\tcp_client\\tcp_client\\devlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|solutionrelative:tcp_client\\devlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|c:\\users\\og\\source\\repos\\tcp_client\\tcp_client\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|solutionrelative:tcp_client\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|C:\\Users\\OG\\source\\repos\\Tcp_client\\tcp_client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DF1360A-9E30-441E-BADA-79961AAA8264}|Tcp_client\\Tcp_client.csproj|solutionrelative:tcp_client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaketDefine.cs",
+              "DocumentMoniker": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\PaketDefine.cs",
+              "RelativeDocumentMoniker": "Tcp_client\\PaketDefine.cs",
+              "ToolTip": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\PaketDefine.cs",
+              "RelativeToolTip": "Tcp_client\\PaketDefine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:17:43.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\Packet.cs",
+              "RelativeDocumentMoniker": "Tcp_client\\Packet.cs",
+              "ToolTip": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\Packet.cs",
+              "RelativeToolTip": "Tcp_client\\Packet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:12:55.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DevLog.cs",
+              "DocumentMoniker": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\DevLog.cs",
+              "RelativeDocumentMoniker": "Tcp_client\\DevLog.cs",
+              "ToolTip": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\DevLog.cs",
+              "RelativeToolTip": "Tcp_client\\DevLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:29:03.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\mainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Tcp_client\\mainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\mainForm.Designer.cs",
+              "RelativeToolTip": "Tcp_client\\mainForm.Designer.cs",
+              "ViewState": "AQIAAN8BAAAAAAAAAAAkwNcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:26:35.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacketProcessForm.cs",
+              "DocumentMoniker": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\PacketProcessForm.cs",
+              "RelativeDocumentMoniker": "Tcp_client\\PacketProcessForm.cs",
+              "ToolTip": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\PacketProcessForm.cs",
+              "RelativeToolTip": "Tcp_client\\PacketProcessForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:25:05.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainForm.cs",
+              "DocumentMoniker": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\mainForm.cs",
+              "RelativeDocumentMoniker": "Tcp_client\\mainForm.cs",
+              "ToolTip": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\mainForm.cs",
+              "RelativeToolTip": "Tcp_client\\mainForm.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwC8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:24:48.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "mainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\mainForm.cs",
+              "RelativeDocumentMoniker": "Tcp_client\\mainForm.cs",
+              "ToolTip": "C:\\Users\\OG\\source\\repos\\Tcp_client\\Tcp_client\\mainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Tcp_client\\mainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:24:46.822Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
